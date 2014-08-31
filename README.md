@@ -1,3 +1,6 @@
+# Upfront Caveats
+This method requires a host machine to run as a service and forward monkey commands to the ADT-1. This is required until the ADT-1 is rooted...
+
 # Getting Started
 1. Install ControlPad on an Android device that will be used to control the ADT-1
 2. Remotely connect ADB (on some host machine, etc) to your ADT-1 (ie. adb connect IP_ADDRESS:4321)
