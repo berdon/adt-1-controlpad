@@ -14,6 +14,7 @@
 
 ## How to install other apps?
 My method requires a rooted device and doesn't guarantee the application will work:
+
 1. On a rooted device with an application saught after
 2. adb shell
 3. su
