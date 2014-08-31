@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Control Pad</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="connect">Connect</string>
+    <string name="back">Back</string>
+    <string name="home">Home</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="notConnected">Not Connected</string>
+    <string name="cpsIpAddress">Connect to ControlPad Server</string>
+    <string name="enterCpsIpAddress">Connect to the ControlPad Server; enter its IP Address:</string>
+    <string name="cancel">Cancel</string>
+    <string name="keyboard">Keyboard</string>
+
+</resources>
