@@ -3,5 +3,5 @@
 3. Run service.py via monkeyrunner on the same machine as in #2 (monkeyrunner service/server.py) and wait until the server starts
 4. Launch ControlPad on your controller device
 5. Connect to the service running on the host machine (see #2, #3) in ControlPad
-	a. Swipe down to show the ActionBar
-	b. Menu > Connect > Enter the host IP Address
+	* Swipe down to show the ActionBar
+	* Menu > Connect > Enter the host IP Address
